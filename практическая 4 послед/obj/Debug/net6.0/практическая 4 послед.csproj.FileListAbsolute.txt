@@ -1,0 +1,14 @@
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\bin\Debug\net6.0\практическая 4 послед.exe
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\bin\Debug\net6.0\практическая 4 послед.deps.json
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\bin\Debug\net6.0\практическая 4 послед.runtimeconfig.json
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\bin\Debug\net6.0\практическая 4 послед.dll
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\bin\Debug\net6.0\практическая 4 послед.pdb
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.AssemblyInfoInputs.cache
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.AssemblyInfo.cs
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.csproj.CoreCompileInputs.cache
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.dll
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\refint\практическая 4 послед.dll
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.pdb
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\практическая 4 послед.genruntimeconfig.cache
+C:\Users\kvash\source\repos\практическая 4 послед\практическая 4 послед\obj\Debug\net6.0\ref\практическая 4 послед.dll
